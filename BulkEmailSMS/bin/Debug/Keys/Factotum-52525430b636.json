@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "factotum-192106",
+  "private_key_id": "52525430b63668865dccf03ea2bc80b17dfa7ef7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvFu7t4UYxs8iK\nEyXJaFaPeTqLft534qWSuAzqKEsqfUgzXoyBr/pJ50g8L0l3HGqJWKiyR23L7SvX\nQikf6hGltbymIWI1ADTxVBxBGEMme8D6/cj6xuBhEZAVpKyvG2uM/eUeuitRS42F\n+CXMYX1JDBWI6qmTK7oNFO+hiVNIrkHgvpNnhxT+bUD14TvU731AC5oMl6xPOqxi\nODly/SDdMWv1GQIPy2aPkadDWxOHZ0FgIilMoN+TjEAqTFL4/B2M7qNFst7MsrTp\nxrf+6jJwvRhk6RubJppLFu/GNh7UvUoGNToNfb2+0b7adZBSSy/Hjs0bXgQzCIBl\n3iJ6toy1AgMBAAECggEABjinDhDJG7mq+yz+/2RpCaQMbn8i4dj4enl2YVjugs38\nzhvNRku9yvkgL0icMFKe086F//+waQ8+VYxmRa9dfSkzUNEy2iCYa6gfcONZz3jq\nPIDerqUjvTnl3WmtMR5Po1eKLUipgrP6jV4Uib8/t7lph88+w0SfJxktV+y3PDKA\nhxKhJAlq0TODXp1gywJWam7XChTOUMIhzmfJ83/ZXsULN1eFPnFXJuo5CnbHV2UT\nLFiaqPDR4MP/fkySw3Up5yZsuf9i+wO5fiHpHBWRZ9pmFG3OKn9m/m53v0EXV6Lr\neLEwg2lIwoU6JgOZIvHMYZypnecXHcu9EA6nzmCjQQKBgQDXvmnXOlKzoY39A33V\nCRxrKLn26h6jNKl5XAEMtXyGq/jDBHz92UAkM/wBGt5n33QDhlriPenY66w+Il+S\nP0/lNnP+fIN7CmDWdOa6acSfXi5gwOcwIZu4eMZnoWVHHm7ZDCHyS6LxnE8rmOyg\nqEQKPmfaTfEgK+yDH+fdMP9BDQKBgQDPwo+i5EsnGly/Wig/sLrNQsm+TAt/XhdB\nxQhNubaYJTrJcCAXyQ8BP6gfczBTB7GVydNoA7SXOmTtLyCZJUUGii92WOSsawch\nmvpPvZnw35HNiVe/6FSOqAMxG0Tw1/2gux7NATLyHsYTFTj/XJrTXq0UYVGpX0F+\nELYoTGEASQKBgQC5dGVnLiuJXoa/yBCS4JIdS5UQO5C6mrpUKFJ+qkOxQINGoMUR\nMX+Bn24xRPeKMvt3TDcz5CTw4yXdA49EGEiFsJllWYNscS9tKnBsLh9nH36ejTQu\nm7VQjgF/c62rxO1khplnvr0DFGq5/2rpb7uNUrfTYMy16wwUa4jVCxlgwQKBgQDJ\nVywMGGIcixfG+YB3+LWPpmIM4XVjAbRYMLJTYN7ro2jNPrRbWKYJ977ee6shTBt1\nphoSe0TQKe8VTM6ym8PBCrnkX1F9JlvK3X4nOP+ux3ttTOSVPnpzpa8yL9Mn9Kn+\n0liPI9JTgi9C3xZVo1EH9oCVd5rEIWQ+38MoWpzGwQKBgB7LJ+eyUw/qjE5VKN+b\nqy91ZpeppMIwqewW5s4iocZJAGD/EVRU1JLznpT0iLNuy2DiGqi2BuYj/qrSEyj2\nGIGZtGH35XvMgipY+Kfv5pF84wHJy1AoJXluQsn1NK+piU6V6sYx40vX61v6t91Q\nPhBh/MVxLicCMC5XxzAqgkEv\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataadminaccount@factotum-192106.iam.gserviceaccount.com",
+  "client_id": "116740249178591630353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataadminaccount%40factotum-192106.iam.gserviceaccount.com"
+}

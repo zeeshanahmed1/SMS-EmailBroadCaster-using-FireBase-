@@ -1,0 +1,26 @@
+7/25/2016 12:32:23 PM ==> No data received from phone.
+7/25/2016 12:35:46 PM ==> Response received is incomplete.
+7/25/2016 12:36:09 PM ==> Response received is incomplete.
+7/25/2016 12:36:22 PM ==> Response received is incomplete.
+7/25/2016 12:36:55 PM ==> Response received is incomplete.
+7/25/2016 12:37:20 PM ==> No data received from phone.
+7/25/2016 12:37:31 PM ==> No data received from phone.
+7/25/2016 12:37:46 PM ==> No data received from phone.
+7/25/2016 12:39:02 PM ==> No data received from phone.
+7/25/2016 2:24:52 PM ==> No data received from phone.
+7/25/2016 2:25:19 PM ==> No data received from phone.
+7/25/2016 2:25:42 PM ==> No data received from phone.
+7/25/2016 2:32:06 PM ==> No data received from phone.
+7/25/2016 3:14:49 PM ==> The port 'COM1' does not exist.
+7/25/2016 3:15:38 PM ==> Response received is incomplete.
+7/25/2016 3:16:01 PM ==> Response received is incomplete.
+7/25/2016 3:16:15 PM ==> Response received is incomplete.
+7/25/2016 3:16:27 PM ==> Response received is incomplete.
+7/25/2016 3:16:48 PM ==> Response received is incomplete.
+7/25/2016 3:21:49 PM ==> Access to the port 'COM14' is denied.
+7/25/2016 3:22:12 PM ==> No data received from phone.
+7/25/2016 3:29:09 PM ==> Response received is incomplete.
+7/25/2016 3:29:29 PM ==> The port 'COM1' does not exist.
+7/25/2016 3:29:41 PM ==> Response received is incomplete.
+7/25/2016 3:54:04 PM ==> Response received is incomplete.
+7/25/2016 4:18:16 PM ==> The port 'COM1' does not exist.
